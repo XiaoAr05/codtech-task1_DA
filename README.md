@@ -10,11 +10,13 @@ Domain: Data Analytics
 
 Duration: 5th December 2024 to 5th January 2025
 
-Overview of the Project (EDA)
+Overview of the Project (EDA): 
+
 This project performs Exploratory Data Analysis (EDA) on a sales dataset to uncover meaningful insights and patterns in the data during my internship in CODTECH IT SOLUTIONS. The analysis explores the characteristics of the dataset, identifies trends, and examines relationships between features. Various visualization techniques are applied to understand distributions, correlations, and outliers, providing a comprehensive understanding of the sales data.
 
 
 Key Activities:
+
 1. Data Loading and Inspection:
    - Imported and loaded the dataset using pandas.
    - Inspected the first few rows, shape, data types, summary statistics, and missing values.
@@ -41,6 +43,7 @@ Key Activities:
 
 
 Technologies Used:
+
 - Libraries: 
   - pandas for data manipulation and analysis.
   - numpy for numerical computations.
